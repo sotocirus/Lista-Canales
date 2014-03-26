@@ -1,0 +1,26 @@
+~~~ Box Info ~~~~~~~~~~~~~~~~~~~~
+getMachineName = 800 UE
+getMachineBrand = GigaBlue
+getBoxType = gb800ue
+getBrandOEM = gigablue
+getDriverDate = 20130823
+getImageVersion = 3.0
+getImageBuild = 531
+~~~ CPU Info ~~~~~~~~~~~~~~~~~~~~
+system type		: BCM7325B0 STB platform
+processor		: 0
+cpu model		: Brcm4380 V4.12  FPU V0.0
+BogoMIPS		: 220.16
+cpu MHz			: 332.996
+wait instruction	: yes
+microsecond timers	: yes
+tlb_entries		: 32
+extra interrupt vector	: yes
+hardware watchpoint	: yes, count: 4, address/irw mask: [0x0000, 0x0000, 0x0000, 0x0000]
+ASEs implemented	: mips16 dsp mt
+shadow register sets	: 1
+kscratch registers	: 0
+core			: 0
+VCED exceptions		: not available
+VCEI exceptions		: not available
+

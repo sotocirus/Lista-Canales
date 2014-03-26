@@ -1,0 +1,96 @@
+  0.005	PYTHON_START
+  0.019	SimpleSummary
+  0.109	LOAD:GUISkin
+  0.169	LOAD:ElementTree
+  0.408	LOAD:enigma_skin
+  1.077	LoadSkin
+  2.158	LoadSkinDefaultDone
+  2.170	LOAD:Source
+  2.170	LOAD:GUIComponent
+  2.171	LOAD:eRCInput
+  7.189	LOAD:enigma
+  7.190	LOAD:InfoBarGenerics
+  7.477	ChannelSelection.py 1
+  7.668	ChannelSelection.py 2
+  7.668	ChannelSelection.py 2.1
+  7.694	ChannelSelection.py 2.2
+  7.695	ChannelSelection.py 2.3
+  7.696	ChannelSelection.py 3
+  7.717	ChannelSelection.py 4
+  7.738	ChannelSelection.py after imports
+  8.863	LOAD:InitBar_Components
+  8.863	LOAD:HelpableScreen
+  8.879	Bouquets
+  8.940	ParentalControl
+  8.952	LOAD:Navigation
+  8.986	LOAD:skin
+  8.987	LOAD:Tools
+  8.989	config.misc
+  9.008	Twisted
+ 11.421	LOAD:Plugin
+ 11.422	LOAD:Wizard
+ 11.568	misc
+ 11.569	LOAD:ScreenGlobals
+ 11.677	Screen
+ 11.680	Standby,PowerKey
+ 11.681	Scart
+ 11.687	Load:CI
+ 11.710	Load:VolumeControl
+ 11.738	VolumeControl
+ 11.739	Init:skin
+ 12.529	InputDevice
+ 12.593	SetupDevices
+ 15.439	AVSwitch
+ 15.818	RecordingConfig
+ 15.866	UsageConfig
+ 16.475	Init:DebugLogCheck
+ 17.037	Init:OnlineCheckState
+ 17.040	Init:NTPSync
+ 17.046	keymapparser
+ 17.385	Network
+ 17.410	LCD
+ 17.968	UserInterface
+ 18.007	EpgCacheSched
+ 18.010	RFMod
+ 18.017	Init:CI
+ 18.039	RcModel
+ 18.040	readPluginList
+ 18.048	plugin SoftcamSetup
+ 18.089	plugin IMDb
+ 19.463	plugin CutListEditor
+ 19.501	plugin Tuxtxt
+ 19.526	plugin Volume_adjust
+ 19.635	plugin MediaScanner
+ 19.693	plugin MediaPlayer
+ 19.849	plugin AutoTimer
+ 20.363	plugin OpenWebif
+ 25.706	plugin SF_TEAM
+ 27.386	plugin CoolTVGuide
+ 28.196	plugin PicturePlayer
+ 28.210	plugin EPGSearch
+ 28.578	plugin EtPortal
+ 28.864	plugin EnhancedMovieCenter
+ 33.597	plugin DVDPlayer
+ 33.661	plugin CommonInterfaceAssignment
+ 33.709	plugin Satfinder
+ 33.777	plugin VFDControl
+ 33.983	plugin SoftwareManager
+ 33.987	plugin Toolkit
+ 33.992	plugin PositionerSetup
+ 34.079	plugin Blindscan
+ 34.187	plugin Hotplug
+ 34.201	plugin MPHelp
+ 34.203	plugin WirelessLan
+ 34.347	plugin VideoEnhancement
+ 34.506	plugin AutoBouquetsMaker
+ 35.021	plugin NetworkWizard
+ 35.035	plugin DeviceManager
+ 35.298	plugin NetworkBrowser
+ 35.548	plugin VideoTune
+ 35.560	plugin HdmiCEC
+ 35.663	Init:Session
+ 36.849	wizards
+ 38.173	Init:VolumeControl
+ 38.245	Init:PowerKey
+ 38.255	Init:Trashcan
+ 38.256	RunReactor

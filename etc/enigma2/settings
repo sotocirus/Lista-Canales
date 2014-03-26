@@ -1,0 +1,8 @@
+config.misc.languageselected=false
+config.misc.firstrun=false
+config.Nims.0.diseqcA=192
+config.Nims.0.diseqcMode=diseqc_a_b
+config.Nims.0.diseqcC=3601
+config.Nims.0.diseqcD=3601
+config.Nims.0.diseqcB=130
+config.osd.language=es_ES
